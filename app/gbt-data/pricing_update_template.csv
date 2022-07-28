@@ -1,0 +1,524 @@
+id,name,manufacturer,image,network,capacity,grade_a,grade_b,grade_c,grade_d,grade_e
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,128,,655,525,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,256,,740,610,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,512,,760,630,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,1,,785,655,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,128,,525,395,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,256,,610,480,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,512,,630,500,80,40
+943,iPhone 13 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,1,,655,525,80,40
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,64,,190,110,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,256,,220,130,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,512,,240,140,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,1,,260,160,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,64,,110,30,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,256,,130,40,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,512,,140,40,30,15
+921,iPad Pro 3 (2018) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,1,,160,60,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Unlocked,64,,190,110,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Unlocked,256,,220,130,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Unlocked,512,,240,140,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Unlocked,1,,260,160,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Locked,64,,110,30,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Locked,256,,130,40,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Locked,512,,140,40,30,15
+922,iPad Pro 3 (2018) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpegg,Locked,1,,160,60,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,64,,230,130,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,256,,275,175,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,512,,320,220,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,1,,360,260,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,64,,130,30,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,256,,175,75,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,512,,220,120,30,15
+923,iPad Pro 3 (2018) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,1,,260,160,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,64,,230,130,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,256,,275,175,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,512,,320,220,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Unlocked,1,,360,260,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,64,,130,30,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,256,,175,75,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,512,,220,120,30,15
+924,iPad Pro 3 (2018) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/ipad%20pro%2012.9%202018.jpeg5c615fbf90583.jpeg,Locked,1,,260,160,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Unlocked,128,,250,150,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Unlocked,256,,270,170,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Unlocked,512,,290,190,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Unlocked,1,,320,220,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Locked,128,,150,50,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Locked,256,,170,70,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Locked,512,,190,90,30,15
+925,iPad Pro 4 (2020) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f045806ae9c3.jpg,Locked,1,,220,120,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Unlocked,128,,250,150,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Unlocked,256,,270,170,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Unlocked,512,,290,190,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Unlocked,1,,320,220,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Locked,128,,150,50,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Locked,256,,170,70,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Locked,512,,190,90,30,15
+926,iPad Pro 4 (2020) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2011.jpg5f04587cf0286.jpg,Locked,1,,220,120,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Unlocked,128,,350,250,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Unlocked,256,,400,300,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Unlocked,512,,430,330,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Unlocked,1,,430,330,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Locked,128,,250,150,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Locked,256,,300,200,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Locked,512,,330,230,30,15
+927,iPad Pro 4 (2020) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0458f2e6081.jpg,Locked,1,,330,230,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Unlocked,128,,350,250,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Unlocked,256,,400,300,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Unlocked,512,,430,330,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Unlocked,1,,430,330,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Locked,128,,250,150,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Locked,256,,300,200,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Locked,512,,330,230,30,15
+928,iPad Pro 4 (2020) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Pro%202020%2012.9.jpg5f0459531c6b0.jpgg,Locked,1,,330,230,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,128,,290,190,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,256,,340,240,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,512,,375,275,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,1,,410,310,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,2,,445,345,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,128,,190,90,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,256,,240,140,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,512,,275,175,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,1,,310,210,30,15
+929,iPad Pro 5 (2021) 11 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,2,,345,245,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,128,,290,190,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,256,,340,240,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,512,,375,275,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,1,,410,310,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,2,,445,345,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,128,,190,90,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,256,,240,140,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,512,,275,175,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,1,,310,210,30,15
+930,iPad Pro 5 (2021) 11 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,2,,345,245,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,128,,330,230,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,256,,380,280,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,512,,415,315,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,1,,450,350,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,2,,480,380,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,128,,230,130,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,256,,280,180,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,512,,315,215,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,1,,350,250,30,15
+931,iPad Pro 5 (2021) 12.9 WiFi,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,2,,380,280,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,128,,330,230,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,256,,380,280,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,512,,415,315,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,1,,450,350,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Unlocked,2,,480,380,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,128,,230,130,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,256,,280,180,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,512,,315,215,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,1,,350,250,30,15
+932,iPad Pro 5 (2021) 12.9 WiFi & Cellular,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPad%20pro%2011%202018.jpeg5c6161fb49e36.jpeg,Locked,2,,380,280,30,15
+934,iPhone 11 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_Pro_Midnight_Green_comp_710x710.png5fa2e380c730f.png,Unlocked,64,,290,210,50,25
+934,iPhone 11 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_Pro_Midnight_Green_comp_710x710.png5fa2e380c730f.png,Unlocked,256,,345,265,50,25
+934,iPhone 11 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_Pro_Midnight_Green_comp_710x710.png5fa2e380c730f.png,Unlocked,512,,345,265,50,25
+934,iPhone 11 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_Pro_Midnight_Green_comp_710x710.png5fa2e380c730f.png,Locked,64,,210,130,50,25
+934,iPhone 11 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_Pro_Midnight_Green_comp_710x710.png5fa2e380c730f.png,Locked,256,,265,185,50,25
+934,iPhone 11 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_Pro_Midnight_Green_comp_710x710.png5fa2e380c730f.png,Locked,512,,265,185,50,25
+935,iPhone 11 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_pro_max_silver_comp_710x710.png5fa2fe4a6fd3c.png,Unlocked,64,,342,262,50,25
+935,iPhone 11 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_pro_max_silver_comp_710x710.png5fa2fe4a6fd3c.png,Unlocked,256,,392,312,50,25
+935,iPhone 11 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_pro_max_silver_comp_710x710.png5fa2fe4a6fd3c.png,Unlocked,512,,392,312,50,25
+935,iPhone 11 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_pro_max_silver_comp_710x710.png5fa2fe4a6fd3c.png,Locked,64,,262,182,50,25
+935,iPhone 11 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_pro_max_silver_comp_710x710.png5fa2fe4a6fd3c.png,Locked,256,,312,232,50,25
+935,iPhone 11 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_pro_max_silver_comp_710x710.png5fa2fe4a6fd3c.png,Locked,512,,312,232,50,25
+936,iPhone 12,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-12BLACK.png5f92a5298e755.png,Unlocked,64,,355,255,60,30
+936,iPhone 12,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-12BLACK.png5f92a5298e755.png,Unlocked,128,,406,306,60,30
+936,iPhone 12,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-12BLACK.png5f92a5298e755.png,Unlocked,256,,406,306,60,30
+936,iPhone 12,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-12BLACK.png5f92a5298e755.png,Locked,64,,255,155,60,30
+936,iPhone 12,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-12BLACK.png5f92a5298e755.png,Locked,128,,306,206,60,30
+936,iPhone 12,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-12BLACK.png5f92a5298e755.png,Locked,256,,306,206,60,30
+937,iPhone 12 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20mini.png5f92a53e26388.png,Unlocked,64,,295,215,60,30
+937,iPhone 12 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20mini.png5f92a53e26388.png,Unlocked,128,,340,240,60,30
+937,iPhone 12 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20mini.png5f92a53e26388.png,Unlocked,256,,365,265,60,30
+937,iPhone 12 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20mini.png5f92a53e26388.png,Locked,64,,215,135,60,30
+937,iPhone 12 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20mini.png5f92a53e26388.png,Locked,128,,240,140,60,30
+937,iPhone 12 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20mini.png5f92a53e26388.png,Locked,256,,265,165,60,30
+938,iPhone 12 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.pngg,Unlocked,128,,475,375,80,40
+938,iPhone 12 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.pngg,Unlocked,256,,500,400,80,40
+938,iPhone 12 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.pngg,Unlocked,512,,520,420,80,40
+938,iPhone 12 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.pngg,Locked,128,,375,275,80,40
+938,iPhone 12 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.pngg,Locked,256,,400,300,80,40
+938,iPhone 12 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.pngg,Locked,512,,420,320,80,40
+939,iPhone 12 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iPhone-12-Pro-Max-leak-red.png5f92a50b59f46.png,Unlocked,128,,547,447,80,40
+939,iPhone 12 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iPhone-12-Pro-Max-leak-red.png5f92a50b59f46.png,Unlocked,256,,568,468,80,40
+939,iPhone 12 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iPhone-12-Pro-Max-leak-red.png5f92a50b59f46.png,Unlocked,512,,592,492,80,40
+939,iPhone 12 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iPhone-12-Pro-Max-leak-red.png5f92a50b59f46.png,Locked,128,,447,347,80,40
+939,iPhone 12 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iPhone-12-Pro-Max-leak-red.png5f92a50b59f46.png,Locked,256,,468,368,80,40
+939,iPhone 12 Pro Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iPhone-12-Pro-Max-leak-red.png5f92a50b59f46.png,Locked,512,,492,392,80,40
+940,iPhone 13,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,128,,485,385,80,40
+940,iPhone 13,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,256,,545,445,80,40
+940,iPhone 13,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,512,,570,470,80,40
+940,iPhone 13,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,128,,385,285,80,40
+940,iPhone 13,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,256,,445,345,80,40
+940,iPhone 13,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,512,,470,370,80,40
+941,iPhone 13 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,128,,355,275,80,40
+941,iPhone 13 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,256,,375,295,80,40
+941,iPhone 13 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,512,,410,330,80,40
+941,iPhone 13 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,128,,275,195,80,40
+941,iPhone 13 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,256,,295,215,80,40
+941,iPhone 13 Mini,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,512,,330,250,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,128,,650,520,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,256,,710,580,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,512,,735,605,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Unlocked,1,,745,615,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,128,,520,390,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,256,,580,450,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,512,,605,475,80,40
+942,iPhone 13 Pro,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/12%20pro.png5f92a4f5b57a1.png,Locked,1,,615,485,80,40
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,16,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,32,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,64,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,128,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,16,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,32,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,64,,0,0,0,0
+944,iPhone 6,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,128,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,16,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,32,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,64,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,128,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,16,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,32,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,64,,0,0,0,0
+945,iPhone 6 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,128,,0,0,0,0
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,16,,0,0,0,0
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,32,,38,23,2,1
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,64,,0,0,0,0
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,128,,0,0,0,0
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,16,,0,0,0,0
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,32,,23,8,2,1
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,64,,0,0,0,0
+946,iPhone 6S,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,128,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,16,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,32,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,64,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Unlocked,128,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,16,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,32,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,64,,0,0,0,0
+947,iPhone 6S Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone-6s-rosegold-comp_710x710.png5fa2df6a7050b.png,Locked,128,,0,0,0,0
+948,iPhone 7,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_7_jet_black_comp_710x710.png5fa2e01c7ed3d.png,Unlocked,32,,53,33,4,2
+948,iPhone 7,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_7_jet_black_comp_710x710.png5fa2e01c7ed3d.png,Unlocked,128,,63,43,4,2
+948,iPhone 7,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_7_jet_black_comp_710x710.png5fa2e01c7ed3d.png,Unlocked,256,,63,43,4,2
+948,iPhone 7,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_7_jet_black_comp_710x710.png5fa2e01c7ed3d.png,Locked,32,,33,13,4,2
+948,iPhone 7,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_7_jet_black_comp_710x710.png5fa2e01c7ed3d.png,Locked,128,,43,23,4,2
+948,iPhone 7,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_7_jet_black_comp_710x710.png5fa2e01c7ed3d.png,Locked,256,,43,23,4,2
+949,iPhone 7 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone_7_plus_gold_comp_710x710.png5fa2e0fa40bfe.png,Unlocked,32,,80,50,4,2
+949,iPhone 7 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone_7_plus_gold_comp_710x710.png5fa2e0fa40bfe.png,Unlocked,128,,90,55,4,2
+949,iPhone 7 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone_7_plus_gold_comp_710x710.png5fa2e0fa40bfe.png,Unlocked,256,,90,55,4,2
+949,iPhone 7 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone_7_plus_gold_comp_710x710.png5fa2e0fa40bfe.png,Locked,32,,50,20,4,2
+949,iPhone 7 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone_7_plus_gold_comp_710x710.png5fa2e0fa40bfe.png,Locked,128,,55,20,4,2
+949,iPhone 7 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iphone_7_plus_gold_comp_710x710.png5fa2e0fa40bfe.png,Locked,256,,55,20,4,2
+950,iPhone 8,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Unlocked,64,,94,64,10,5
+950,iPhone 8,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Unlocked,128,,94,64,10,5
+950,iPhone 8,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Unlocked,256,,116,81,10,5
+950,iPhone 8,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Locked,64,,64,34,10,5
+950,iPhone 8,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Locked,128,,64,34,10,5
+950,iPhone 8,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Locked,256,,81,46,10,5
+951,iPhone 8 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Unlocked,64,,128,93,14,7
+951,iPhone 8 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Unlocked,128,,128,93,14,7
+951,iPhone 8 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Unlocked,256,,143,108,14,7
+951,iPhone 8 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Locked,64,,93,58,14,7
+951,iPhone 8 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Locked,128,,93,58,14,7
+951,iPhone 8 Plus,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_8_red_comp_710x710.png5fa2e17bacb42.png,Locked,256,,108,73,14,7
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,16,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,32,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,64,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,128,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Locked,16,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Locked,32,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Locked,64,,0,0,0,0
+952,iPhone SE,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Locked,128,,0,0,0,0
+953,iPhone SE (2020),Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,64,,100,60,14,7
+953,iPhone SE (2020),Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,128,,120,80,14,7
+953,iPhone SE (2020),Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/5-iphone-se-256gb-product-red.responsive-fs.centre.png5ea6a86c0b7d0.png,Unlocked,256,,120,80,14,7
+954,iPhone X,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_x_silver_comp_710x710.png5fa304faba12a.png,Unlocked,64,,155,110,20,10
+954,iPhone X,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_x_silver_comp_710x710.png5fa304faba12a.png,Unlocked,256,,185,135,20,10
+954,iPhone X,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_x_silver_comp_710x710.png5fa304faba12a.png,Locked,64,,110,65,20,10
+954,iPhone X,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_x_silver_comp_710x710.png5fa304faba12a.png,Locked,256,,135,85,20,10
+955,iPhone XR,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xr_coral_comp_710x710.png5fa302afbd09a.png,Unlocked,64,,160,115,20,10
+955,iPhone XR,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xr_coral_comp_710x710.png5fa302afbd09a.png,Unlocked,128,,185,135,20,10
+955,iPhone XR,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xr_coral_comp_710x710.png5fa302afbd09a.png,Unlocked,256,,185,135,20,10
+955,iPhone XR,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xr_coral_comp_710x710.png5fa302afbd09a.png,Locked,64,,115,70,20,10
+955,iPhone XR,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xr_coral_comp_710x710.png5fa302afbd09a.png,Locked,128,,135,85,20,10
+955,iPhone XR,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xr_coral_comp_710x710.png5fa302afbd09a.png,Locked,256,,135,85,20,10
+956,iPhone XS,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_gold_comp_710x710.png5fa303d1a88f4.png,Unlocked,64,,153,103,30,15
+956,iPhone XS,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_gold_comp_710x710.png5fa303d1a88f4.png,Unlocked,256,,170,120,30,15
+956,iPhone XS,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_gold_comp_710x710.png5fa303d1a88f4.png,Unlocked,512,,190,140,30,15
+956,iPhone XS,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_gold_comp_710x710.png5fa303d1a88f4.png,Locked,64,,103,53,30,15
+956,iPhone XS,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_gold_comp_710x710.png5fa303d1a88f4.png,Locked,256,,120,70,30,15
+956,iPhone XS,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_gold_comp_710x710.png5fa303d1a88f4.png,Locked,512,,140,90,30,15
+957,iPhone XS Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_max_space_grey_comp_710x710.png5fa3041f526f3.png,Unlocked,64,,190,130,30,15
+957,iPhone XS Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_max_space_grey_comp_710x710.png5fa3041f526f3.png,Unlocked,256,,210,150,30,15
+957,iPhone XS Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_max_space_grey_comp_710x710.png5fa3041f526f3.png,Unlocked,512,,210,150,30,15
+957,iPhone XS Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_max_space_grey_comp_710x710.png5fa3041f526f3.png,Locked,64,,130,70,30,15
+957,iPhone XS Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_max_space_grey_comp_710x710.png5fa3041f526f3.png,Locked,256,,150,90,30,15
+957,iPhone XS Max,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_xs_max_space_grey_comp_710x710.png5fa3041f526f3.png,Locked,512,,150,90,30,15
+958,Pixel 4,Google,,Unlocked,64,,0,0,0,0
+958,Pixel 4,Google,,Unlocked,128,,0,0,0,0
+958,Pixel 4,Google,,Locked,64,,0,0,0,0
+958,Pixel 4,Google,,Locked,128,,0,0,0,0
+959,Pixel 4 XL,Google,,Unlocked,64,,0,0,0,0
+959,Pixel 4 XL,Google,,Unlocked,128,,0,0,0,0
+959,Pixel 4 XL,Google,,Locked,64,,0,0,0,0
+959,Pixel 4 XL,Google,,Locked,128,,0,0,0,0
+960,Pixel 4 XL,Google,,Unlocked,64,,0,0,0,0
+960,Pixel 4 XL,Google,,Unlocked,128,,0,0,0,0
+960,Pixel 4 XL,Google,,Locked,64,,0,0,0,0
+960,Pixel 4 XL,Google,,Locked,128,,0,0,0,0
+961,Pixel 5,Google,,Unlocked,128,,180,135,20,10
+961,Pixel 5,Google,,Locked,128,,135,90,20,10
+962,Mate 20,Huawei,,Unlocked,128,,0,0,0,0
+962,Mate 20,Huawei,,Locked,128,,0,0,0,0
+963,Mate 20 Lite,Huawei,,Unlocked,64,,0,0,0,0
+963,Mate 20 Lite,Huawei,,Locked,64,,0,0,0,0
+964,Mate 20 Pro,Huawei,,Unlocked,128,,0,0,0,0
+964,Mate 20 Pro,Huawei,,Unlocked,256,,0,0,0,0
+964,Mate 20 Pro,Huawei,,Locked,128,,0,0,0,0
+964,Mate 20 Pro,Huawei,,Locked,256,,0,0,0,0
+965,Mate 20 X,Huawei,,Unlocked,128,,0,0,0,0
+965,Mate 20 X,Huawei,,Locked,128,,0,0,0,0
+966,Mate 30 Pro,Huawei,,Unlocked,256,,0,0,0,0
+966,Mate 30 Pro,Huawei,,Locked,256,,0,0,0,0
+967,Mate XS 5G,Huawei,,Unlocked,512,,0,0,0,0
+967,Mate XS 5G,Huawei,,Locked,512,,0,0,0,0
+968,P20,Huawei,,Unlocked,64,,0,0,0,0
+968,P20,Huawei,,Unlocked,128,,0,0,0,0
+968,P20,Huawei,,Locked,64,,0,0,0,0
+968,P20,Huawei,,Locked,128,,0,0,0,0
+969,P20 Lite,Huawei,,Unlocked,32,,0,0,0,0
+969,P20 Lite,Huawei,,Unlocked,64,,0,0,0,0
+969,P20 Lite,Huawei,,Locked,32,,0,0,0,0
+969,P20 Lite,Huawei,,Locked,64,,0,0,0,0
+970,P20 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/3-P20-Pro-5b1136479d6fc.,Unlocked,64,,35,20,4,2
+970,P20 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/3-P20-Pro-5b1136479d6fc.,Unlocked,128,,35,20,4,2
+970,P20 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/3-P20-Pro-5b1136479d6fc.,Unlocked,256,,35,20,4,2
+970,P20 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/3-P20-Pro-5b1136479d6fc.,Locked,64,,20,5,4,2
+970,P20 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/3-P20-Pro-5b1136479d6fc.,Locked,128,,20,5,4,2
+970,P20 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/3-P20-Pro-5b1136479d6fc.,Locked,256,,20,5,4,2
+971,P30,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30BLACK.png5cb077ca50ba5.png,Unlocked,128,,70,40,2,1
+971,P30,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30BLACK.png5cb077ca50ba5.png,Locked,128,,40,10,2,1
+972,P30 Lite,Huawei,,Unlocked,128,,0,0,0,0
+972,P30 Lite,Huawei,,Unlocked,256,,0,0,0,0
+972,P30 Lite,Huawei,,Locked,128,,0,0,0,0
+972,P30 Lite,Huawei,,Locked,256,,0,0,0,0
+973,P30 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30-proCRYSTAL.png5cb077b035b7b.png,Unlocked,128,,145,105,4,2
+973,P30 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30-proCRYSTAL.png5cb077b035b7b.png,Unlocked,256,,145,105,4,2
+973,P30 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30-proCRYSTAL.png5cb077b035b7b.png,Unlocked,512,,145,105,4,2
+973,P30 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30-proCRYSTAL.png5cb077b035b7b.png,Locked,128,,105,65,4,2
+973,P30 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30-proCRYSTAL.png5cb077b035b7b.png,Locked,256,,105,65,4,2
+973,P30 Pro,Huawei,https://lifeboat-media.s3.eu-west-2.amazonaws.com/p30-proCRYSTAL.png5cb077b035b7b.png,Locked,512,,105,65,4,2
+974,P40 5G,Huawei,,Unlocked,128,,0,0,0,0
+974,P40 5G,Huawei,,Locked,128,,0,0,0,0
+975,P40 Lite,Huawei,,Unlocked,128,,0,0,0,0
+975,P40 Lite,Huawei,,Locked,128,,0,0,0,0
+976,P40 Pro 5G,Huawei,,Unlocked,256,,0,0,0,0
+976,P40 Pro 5G,Huawei,,Locked,256,,0,0,0,0
+977,7,OnePlus,,Unlocked,128,,0,0,0,0
+977,7,OnePlus,,Unlocked,256,,0,0,0,0
+977,7,OnePlus,,Locked,128,,0,0,0,0
+977,7,OnePlus,,Locked,256,,0,0,0,0
+978,7 Pro,OnePlus,https://lifeboat-media.s3.eu-west-2.amazonaws.com/7%20pro.jpeg5d5a89157b118.jpeg,Unlocked,128,,65,45,2,1
+978,7 Pro,OnePlus,https://lifeboat-media.s3.eu-west-2.amazonaws.com/7%20pro.jpeg5d5a89157b118.jpeg,Unlocked,256,,70,50,2,1
+978,7 Pro,OnePlus,https://lifeboat-media.s3.eu-west-2.amazonaws.com/7%20pro.jpeg5d5a89157b118.jpeg,Locked,128,,45,25,2,1
+978,7 Pro,OnePlus,https://lifeboat-media.s3.eu-west-2.amazonaws.com/7%20pro.jpeg5d5a89157b118.jpeg,Locked,256,,50,30,2,1
+979,7T,OnePlus,,Unlocked,128,,0,0,0,0
+979,7T,OnePlus,,Unlocked,256,,0,0,0,0
+979,7T,OnePlus,,Locked,128,,0,0,0,0
+979,7T,OnePlus,,Locked,256,,0,0,0,0
+980,7T Pro,OnePlus,https://lifeboat-media.s3.eu-west-2.amazonaws.com/7T%20Pro.png5ddfa40c086fc.png,Unlocked,256,,65,45,2,1
+980,7T Pro,OnePlus,https://lifeboat-media.s3.eu-west-2.amazonaws.com/7T%20Pro.png5ddfa40c086fc.png,Locked,256,,45,25,2,1
+981,8 5G,OnePlus,,Unlocked,128,,85,55,2,1
+981,8 5G,OnePlus,,Unlocked,256,,85,55,2,1
+981,8 5G,OnePlus,,Locked,128,,55,25,2,1
+981,8 5G,OnePlus,,Locked,256,,55,25,2,1
+982,8T,OnePlus,,Unlocked,128,,0,0,0,0
+982,8T,OnePlus,,Unlocked,256,,0,0,0,0
+982,8T,OnePlus,,Locked,128,,0,0,0,0
+982,8T,OnePlus,,Locked,256,,0,0,0,0
+983,9 5G,OnePlus,,Unlocked,128,,0,0,0,0
+983,9 5G,OnePlus,,Locked,128,,0,0,0,0
+984,Nord,Oppo,https://lifeboat-media.s3.eu-west-2.amazonaws.com/2%20Nord.jpeg5f919a5ce6f89.jpeg,Unlocked,128,,35,20,2,1
+984,Nord,Oppo,https://lifeboat-media.s3.eu-west-2.amazonaws.com/2%20Nord.jpeg5f919a5ce6f89.jpeg,Unlocked,256,,35,20,2,1
+984,Nord,Oppo,https://lifeboat-media.s3.eu-west-2.amazonaws.com/2%20Nord.jpeg5f919a5ce6f89.jpeg,Locked,128,,20,5,2,1
+984,Nord,Oppo,https://lifeboat-media.s3.eu-west-2.amazonaws.com/2%20Nord.jpeg5f919a5ce6f89.jpeg,Locked,256,,20,5,2,1
+985,Find X2 Pro,Oppo,,Unlocked,512,,0,0,0,0
+985,Find X2 Pro,Oppo,,Locked,512,,0,0,0,0
+986,Find X2 Lite,Oppo,,Unlocked,128,,0,0,0,0
+986,Find X2 Lite,Oppo,,Locked,128,,0,0,0,0
+987,Find X3 Lite 5G,Oppo,,Unlocked,128,,0,0,0,0
+987,Find X3 Lite 5G,Oppo,,Locked,128,,0,0,0,0
+988,Find X3 Neo 5G,Oppo,,Unlocked,256,,120,70,16,8
+988,Find X3 Neo 5G,Oppo,,Locked,256,,70,20,16,8
+989,Find X3 Pro 5g,Oppo,,Unlocked,256,,200,120,20,10
+989,Find X3 Pro 5g,Oppo,,Locked,256,,120,40,20,10
+990,A90 5G,Samsung,,Unlocked,128,,0,0,0,0
+990,A90 5G,Samsung,,Locked,128,,0,0,0,0
+991,Galaxy Fold,Samsung,,Unlocked,512,,0,0,0,0
+991,Galaxy Fold,Samsung,,Locked,512,,0,0,0,0
+992,Galaxy Z Fold3 5G,Samsung,,Unlocked,256,,495,345,62,31
+992,Galaxy Z Fold3 5G,Samsung,,Unlocked,512,,495,345,62,31
+992,Galaxy Z Fold3 5G,Samsung,,Locked,256,,345,195,62,31
+992,Galaxy Z Fold3 5G,Samsung,,Locked,512,,345,195,62,31
+993,Note 10,Samsung,,Unlocked,256,,200,135,20,10
+993,Note 10,Samsung,,Locked,256,,135,70,20,10
+994,Note 10 Lite,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/004_galaxynote10_lite_product_images_aura_glow_front.jpg5f8ef632eefd3.jpg,Unlocked,128,,105,60,14,7
+994,Note 10 Lite,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/004_galaxynote10_lite_product_images_aura_glow_front.jpg5f8ef632eefd3.jpg,Locked,128,,60,15,14,7
+995,Note 10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_Note10plus_Aura_Blue_comp_710x710.png5fa3e24968d54.png,Unlocked,256,,175,95,20,10
+995,Note 10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_Note10plus_Aura_Blue_comp_710x710.png5fa3e24968d54.png,Unlocked,512,,175,95,20,10
+995,Note 10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_Note10plus_Aura_Blue_comp_710x710.png5fa3e24968d54.png,Locked,256,,95,15,20,10
+995,Note 10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_Note10plus_Aura_Blue_comp_710x710.png5fa3e24968d54.png,Locked,512,,95,15,20,10
+996,Note 10 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/GALAXY~2.PNG5fa3e59c96ed5.PNG,Unlocked,256,,195,115,20,10
+996,Note 10 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/GALAXY~2.PNG5fa3e59c96ed5.PNG,Unlocked,512,,195,115,20,10
+996,Note 10 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/GALAXY~2.PNG5fa3e59c96ed5.PNG,Locked,256,,115,35,20,10
+996,Note 10 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/GALAXY~2.PNG5fa3e59c96ed5.PNG,Locked,512,,115,35,20,10
+997,Note 20,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note20_mysticbronze_comp_710x710.png5fa3c0793a065.png,Unlocked,256,,235,135,30,15
+997,Note 20,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note20_mysticbronze_comp_710x710.png5fa3c0793a065.png,Locked,256,,135,35,30,15
+998,Note 20 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note20_mysticgreen_comp_710x710.png5fa3c1a437bde.png,Unlocked,256,,225,135,30,15
+998,Note 20 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note20_mysticgreen_comp_710x710.png5fa3c1a437bde.png,Locked,256,,135,45,30,15
+999,Note 20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note_20ultra_mysticwhite_comp_710x710.png5fa3c404bac98.png,Unlocked,256,,290,190,30,15
+999,Note 20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note_20ultra_mysticwhite_comp_710x710.png5fa3c404bac98.png,Unlocked,512,,290,190,30,15
+999,Note 20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note_20ultra_mysticwhite_comp_710x710.png5fa3c404bac98.png,Locked,256,,190,90,30,15
+999,Note 20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note_20ultra_mysticwhite_comp_710x710.png5fa3c404bac98.png,Locked,512,,190,90,30,15
+1000,Note 8,Samsung,,Unlocked,64,,0,0,0,0
+1000,Note 8,Samsung,,Unlocked,128,,0,0,0,0
+1000,Note 8,Samsung,,Unlocked,256,,0,0,0,0
+1000,Note 8,Samsung,,Locked,64,,0,0,0,0
+1000,Note 8,Samsung,,Locked,128,,0,0,0,0
+1000,Note 8,Samsung,,Locked,256,,0,0,0,0
+1001,Note 9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note9_Metallic-Copper_comp_710x710.png5fa3ee354602e.png,Unlocked,128,,110,70,10,5
+1001,Note 9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note9_Metallic-Copper_comp_710x710.png5fa3ee354602e.png,Unlocked,512,,110,70,10,5
+1001,Note 9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note9_Metallic-Copper_comp_710x710.png5fa3ee354602e.png,Locked,128,,70,30,10,5
+1001,Note 9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_note9_Metallic-Copper_comp_710x710.png5fa3ee354602e.png,Locked,512,,70,30,10,5
+1002,S10,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10_green_comp_710x710.png5fa3e992405ed.png,Unlocked,128,,125,85,12,6
+1002,S10,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10_green_comp_710x710.png5fa3e992405ed.png,Unlocked,512,,125,85,12,6
+1002,S10,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10_green_comp_710x710.png5fa3e992405ed.png,Locked,128,,85,45,12,6
+1002,S10,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10_green_comp_710x710.png5fa3e992405ed.png,Locked,512,,85,45,12,6
+1003,S10 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/6-Galaxy-S10-5G-_-Royal-Gold_comp_710x710.png5fa3e6c5721c2.png,Unlocked,256,,125,85,12,6
+1003,S10 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/6-Galaxy-S10-5G-_-Royal-Gold_comp_710x710.png5fa3e6c5721c2.png,Unlocked,512,,125,85,12,6
+1003,S10 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/6-Galaxy-S10-5G-_-Royal-Gold_comp_710x710.png5fa3e6c5721c2.png,Locked,256,,85,45,12,6
+1003,S10 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/6-Galaxy-S10-5G-_-Royal-Gold_comp_710x710.png5fa3e6c5721c2.png,Locked,512,,85,45,12,6
+1004,S10 Lite,Samsung,,Unlocked,128,,0,0,0,0
+1004,S10 Lite,Samsung,,Locked,128,,0,0,0,0
+1005,S10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10plus_flamingo-pink_comp_710x710.png5fa3ea888394a.png,Unlocked,128,,165,115,12,6
+1005,S10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10plus_flamingo-pink_comp_710x710.png5fa3ea888394a.png,Unlocked,512,,165,115,12,6
+1005,S10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10plus_flamingo-pink_comp_710x710.png5fa3ea888394a.png,Unlocked,1,,165,115,12,6
+1005,S10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10plus_flamingo-pink_comp_710x710.png5fa3ea888394a.png,Locked,128,,115,65,12,6
+1005,S10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10plus_flamingo-pink_comp_710x710.png5fa3ea888394a.png,Locked,512,,115,65,12,6
+1005,S10 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy_S10plus_flamingo-pink_comp_710x710.png5fa3ea888394a.png,Locked,1,,115,65,12,6
+1006,S10e,Samsung,,Unlocked,128,,0,0,0,0
+1006,S10e,Samsung,,Unlocked,256,,0,0,0,0
+1006,S10e,Samsung,,Locked,128,,0,0,0,0
+1006,S10e,Samsung,,Locked,256,,0,0,0,0
+1007,S20,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys20_cloud_pink_comp_710x710.png5fa3ff4a5c6b6.png,Unlocked,128,,155,90,30,15
+1007,S20,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys20_cloud_pink_comp_710x710.png5fa3ff4a5c6b6.png,Locked,128,,90,25,30,15
+1008,S20 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys20_cloud_blue_comp_710x710.png5fa3ff5d6f421.png,Unlocked,128,,180,105,30,15
+1008,S20 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys20_cloud_blue_comp_710x710.png5fa3ff5d6f421.png,Locked,128,,105,30,30,15
+1009,S20 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20plus_cloud_blue_comp_710x710.png5fa3f3323d720.png,Unlocked,128,,0,0,0,0
+1009,S20 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20plus_cloud_blue_comp_710x710.png5fa3f3323d720.png,Locked,128,,0,0,0,0
+1010,S20 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20plus_cloud_blue_comp_710x710.png5fa3f3323d720.png,Unlocked,128,,190,115,30,15
+1010,S20 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20plus_cloud_blue_comp_710x710.png5fa3f3323d720.png,Locked,128,,115,40,30,15
+1011,S20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20ultra_cosmic_gray_comp_710x710.png5fa3f41ee3e72.png,Unlocked,128,,245,145,40,20
+1011,S20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20ultra_cosmic_gray_comp_710x710.png5fa3f41ee3e72.png,Unlocked,512,,245,145,40,20
+1011,S20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20ultra_cosmic_gray_comp_710x710.png5fa3f41ee3e72.png,Locked,128,,145,45,40,20
+1011,S20 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxys_20ultra_cosmic_gray_comp_710x710.png5fa3f41ee3e72.png,Locked,512,,145,45,40,20
+1012,S20 FE,Samsung,,Unlocked,128,,120,70,20,10
+1012,S20 FE,Samsung,,Locked,128,,70,20,20,10
+1013,S20 FE 5G,Samsung,,Unlocked,128,,140,75,24,12
+1013,S20 FE 5G,Samsung,,Unlocked,256,,140,75,24,12
+1013,S20 FE 5G,Samsung,,Locked,128,,75,10,24,12
+1013,S20 FE 5G,Samsung,,Locked,256,,75,10,24,12
+1014,S21 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21.jpeg60377910c31ae.jpeg,Unlocked,128,,320,220,40,20
+1014,S21 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21.jpeg60377910c31ae.jpeg,Unlocked,256,,320,220,40,20
+1014,S21 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21.jpeg60377910c31ae.jpeg,Locked,128,,220,120,40,20
+1014,S21 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21.jpeg60377910c31ae.jpeg,Locked,256,,220,120,40,20
+1015,S21 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Plus.jpeg60377a3619ba1.jpeg,Unlocked,128,,360,260,40,20
+1015,S21 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Plus.jpeg60377a3619ba1.jpeg,Unlocked,256,,360,260,40,20
+1015,S21 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Plus.jpeg60377a3619ba1.jpeg,Locked,128,,260,160,40,20
+1015,S21 Plus 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Plus.jpeg60377a3619ba1.jpeg,Locked,256,,260,160,40,20
+1016,S21 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Ultra.jpeg60377a792a332.jpeg,Unlocked,128,,430,310,50,25
+1016,S21 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Ultra.jpeg60377a792a332.jpeg,Unlocked,256,,430,310,50,25
+1016,S21 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Ultra.jpeg60377a792a332.jpeg,Unlocked,512,,430,310,50,25
+1016,S21 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Ultra.jpeg60377a792a332.jpeg,Locked,128,,310,190,50,25
+1016,S21 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Ultra.jpeg60377a792a332.jpeg,Locked,256,,310,190,50,25
+1016,S21 Ultra 5G,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/S21%20Ultra.jpeg60377a792a332.jpeg,Locked,512,,310,190,50,25
+1017,S22 5G,Samsung,,Unlocked,128,,375,275,50,25
+1017,S22 5G,Samsung,,Unlocked,256,,375,275,50,25
+1017,S22 5G,Samsung,,Locked,128,,275,175,50,25
+1017,S22 5G,Samsung,,Locked,256,,275,175,50,25
+1018,S22 Plus 5G,Samsung,,Unlocked,128,,420,320,50,25
+1018,S22 Plus 5G,Samsung,,Unlocked,256,,420,320,50,25
+1018,S22 Plus 5G,Samsung,,Locked,128,,320,220,50,25
+1018,S22 Plus 5G,Samsung,,Locked,256,,320,220,50,25
+1019,S22 Ultra 5G,Samsung,,Unlocked,128,,530,410,70,35
+1019,S22 Ultra 5G,Samsung,,Unlocked,256,,530,410,70,35
+1019,S22 Ultra 5G,Samsung,,Unlocked,512,,530,410,70,35
+1019,S22 Ultra 5G,Samsung,,Unlocked,1,,530,410,70,35
+1019,S22 Ultra 5G,Samsung,,Locked,128,,410,290,70,35
+1019,S22 Ultra 5G,Samsung,,Locked,256,,410,290,70,35
+1019,S22 Ultra 5G,Samsung,,Locked,512,,410,290,70,35
+1019,S22 Ultra 5G,Samsung,,Locked,1,,410,290,70,35
+1020,S7,Samsung,,Unlocked,32,,0,0,0,0
+1020,S7,Samsung,,Unlocked,64,,0,0,0,0
+1020,S7,Samsung,,Locked,32,,0,0,0,0
+1020,S7,Samsung,,Locked,64,,0,0,0,0
+1021,S7 Edge,Samsung,,Unlocked,32,,0,0,0,0
+1021,S7 Edge,Samsung,,Unlocked,64,,0,0,0,0
+1021,S7 Edge,Samsung,,Unlocked,128,,0,0,0,0
+1021,S7 Edge,Samsung,,Locked,32,,0,0,0,0
+1021,S7 Edge,Samsung,,Locked,64,,0,0,0,0
+1021,S7 Edge,Samsung,,Locked,128,,0,0,0,0
+1022,S8,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S8_Burgundy_comp_710x710.png5fa90a79f0159.png,Unlocked,64,,75,50,4,2
+1022,S8,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S8_Burgundy_comp_710x710.png5fa90a79f0159.png,Locked,64,,50,25,4,2
+1023,S8 Plus,Samsung,,Unlocked,64,,0,0,0,0
+1023,S8 Plus,Samsung,,Unlocked,128,,0,0,0,0
+1023,S8 Plus,Samsung,,Locked,64,,0,0,0,0
+1023,S8 Plus,Samsung,,Locked,128,,0,0,0,0
+1024,S9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Burgundy-Red_comp_710x710.png5fa3d672cb0bc.png,Unlocked,64,,75,45,4,2
+1024,S9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Burgundy-Red_comp_710x710.png5fa3d672cb0bc.png,Unlocked,128,,75,45,4,2
+1024,S9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Burgundy-Red_comp_710x710.png5fa3d672cb0bc.png,Unlocked,256,,75,45,4,2
+1024,S9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Burgundy-Red_comp_710x710.png5fa3d672cb0bc.png,Locked,64,,45,15,4,2
+1024,S9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Burgundy-Red_comp_710x710.png5fa3d672cb0bc.png,Locked,128,,45,15,4,2
+1024,S9,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Burgundy-Red_comp_710x710.png5fa3d672cb0bc.png,Locked,256,,45,15,4,2
+1025,S9 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Plus_SunriseGold_comp_710x710.png5fa3d816de47e.png,Unlocked,64,,0,0,0,0
+1025,S9 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Plus_SunriseGold_comp_710x710.png5fa3d816de47e.png,Unlocked,128,,110,75,4,2
+1025,S9 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Plus_SunriseGold_comp_710x710.png5fa3d816de47e.png,Unlocked,256,,110,75,4,2
+1025,S9 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Plus_SunriseGold_comp_710x710.png5fa3d816de47e.png,Locked,64,,0,0,0,0
+1025,S9 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Plus_SunriseGold_comp_710x710.png5fa3d816de47e.png,Locked,128,,75,40,4,2
+1025,S9 Plus,Samsung,https://lifeboat-media.s3.eu-west-2.amazonaws.com/Galaxy-S9-Plus_SunriseGold_comp_710x710.png5fa3d816de47e.png,Locked,256,,75,40,4,2
+1026,S9 Plus,Samsung,,Unlocked,64,,0,0,0,0
+1026,S9 Plus,Samsung,,Unlocked,128,,110,75,4,2
+1026,S9 Plus,Samsung,,Unlocked,256,,110,75,4,2
+1026,S9 Plus,Samsung,,Locked,64,,0,0,0,0
+1026,S9 Plus,Samsung,,Locked,128,,75,40,4,2
+1026,S9 Plus,Samsung,,Locked,256,,75,40,4,2
+1027,Z Flip,Samsung,,Unlocked,256,,0,0,0,0
+1027,Z Flip,Samsung,,Locked,256,,0,0,0,0
+1028,Z Flip3 5G,Samsung,,Unlocked,128,,265,165,30,15
+1028,Z Flip3 5G,Samsung,,Unlocked,256,,265,165,30,15
+1028,Z Flip3 5G,Samsung,,Locked,128,,165,65,30,15
+1028,Z Flip3 5G,Samsung,,Locked,256,,165,65,30,15
+1029,Xperia 1 II,Sony,,Unlocked,256,,85,50,8,4
+1029,Xperia 1 II,Sony,,Locked,256,,50,15,8,4
+1030,Xperia 1 III,Sony,,Unlocked,256,,150,90,16,8
+1030,Xperia 1 III,Sony,,Locked,256,,90,30,16,8
+1031,Xperia 5 III,Sony,,Unlocked,128,,0,0,0,0
+1031,Xperia 5 III,Sony,,Locked,128,,0,0,0,0
+1032,Xperia 10 III,Sony,,Unlocked,128,,0,0,0,0
+1032,Xperia 10 III,Sony,,Locked,128,,0,0,0,0
+1033,Mi 11 Lite 5G,Xiaomi,,Unlocked,128,,45,25,4,2
+1033,Mi 11 Lite 5G,Xiaomi,,Locked,128,,25,5,4,2
+1034,Mi 11 5G,Xiaomi,,Unlocked,128,,100,60,8,4
+1034,Mi 11 5G,Xiaomi,,Unlocked,256,,100,60,8,4
+1034,Mi 11 5G,Xiaomi,,Locked,128,,60,20,8,4
+1034,Mi 11 5G,Xiaomi,,Locked,256,,60,20,8,4
+1035,Mi 11 Ultra 5G,Xiaomi,,Unlocked,256,,235,135,24,12
+1035,Mi 11 Ultra 5G,Xiaomi,,Locked,256,,135,35,24,12
+933,iPhone 11,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_purple_comp_710x710.png5fa2e234424b3.png,Unlocked,64,,235,165,40,20
+933,iPhone 11,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_purple_comp_710x710.png5fa2e234424b3.png,Unlocked,128,,282,202,40,20
+933,iPhone 11,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_purple_comp_710x710.png5fa2e234424b3.png,Unlocked,256,,282,202,40,20
+933,iPhone 11,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_purple_comp_710x710.png5fa2e234424b3.png,Locked,64,,165,95,40,20
+933,iPhone 11,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_purple_comp_710x710.png5fa2e234424b3.png,Locked,128,,202,122,40,20
+933,iPhone 11,Apple,https://lifeboat-media.s3.eu-west-2.amazonaws.com/iPhone_11_purple_comp_710x710.png5fa2e234424b3.png,Locked,256,,202,122,40,20

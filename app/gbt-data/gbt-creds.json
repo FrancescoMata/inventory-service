@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gbt-france",
+  "private_key_id": "403dbe8edd7e38d4ecd460bf4c8aaf9ffa56a0d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBpHWM3IrbQ8VF\nVnaY4P/BP3HoE6RkqlCaRcSk6907H3+pI+bFPawEN79cPIYvLMn6ns3HC3gHklFE\nM1K40l0O6sKu8yDzGITjMYxPUzbY9OIrBq7Lftj6198/+LbZNeIQV5OETor9EicH\nY6etPPt7Mcy+mdHd2uu81XAmwtg63+/fYliavijZNfeYGpETAhyrr9RiL4sTEy+H\nld8mggDwSO8L+GwcMyh7bz+2uz2AB8XDLfQdQZrEe/EEOdDWD2tq0wLxivb0PdSx\nvQdn5WBd4/qyasSZS6PGHpipOVDudKfHzUsMS0leaJRKerVI5YX1xopsWxzRbVtf\nFY7Udpr5AgMBAAECggEAAtaGtIRM8q65Fu2P+midxvbHlBepmqIWYVRxb9tXGDU7\neT6h9LUVLtCkWNU4QDu/UBGAwZCM90txLnc0GKpYm83cAZVln7p1xCCnRkhZbu+T\n2v6TlD7tLiv4xSa/g0pzYDrwWgmOpuvbr5OJ0xOoOeN+dTKq7T32o4NbS+4iHibA\nep1yBD1y4PEdSVObGkLQ+WBsW9t63xiFHSTjx+j04ET4sg/9GRb24Llg3ByPNNEx\n55XnYm9XqEtt7BWMHyXs9dnXoQbWMcqQGhLLjNQRBksgoWKBADh5vxWMk1+BEiq/\nVQrXNBDmcfdY38yvOgvnL3QAYlBXZ4VRUMqeMoX3SQKBgQD6NRFXWXpXsoF9KLgK\nQrjkegcyF6xtfSAvPEizk32OvBQbhkmYeZ7xT3UB5+LzxzFpkWHQxMkeXeBeJ36H\na6yc+QETktJQ7SVjBQ1806uyXv7nOQBoJv0OlKjmvFU5Lr75DguWV5MIMMs1zpcZ\namhz3bgV7SSBK05vqBFp0NbElQKBgQDGICRTkAh7n/odTKG2bKBPuvKqeoe4BLhx\nQhrzH65ICEUYAsTFwTaKJRzeII6kPbpQytXf0uE071A4xa9fFeJPowwLH7JTgNSC\nB5li93nRnU4bu76/ZtpAjf/Y2/H3li4FIv01mNcJHBRIdM96n/QDeSfzrg/nPwxw\n0QU2s1sf1QKBgFx7gQ1oZXBE6tf4VQ512yGYeVBqr7FIrrzG65h0y9QWcNg7qrhR\nPA617+nkbF7vIbSDqEQieLRgvq4OqxYjFopu/5bcjiCbh1YyZ+nb03r64f1VdHEK\n+D6LdGLU+itIvA4SwvWvKQm9/17EHdWnHzS0n3Z7USLtfvCGjukt6DSBAoGACW0S\nDV+255rO3YH9154HaoOsc+vsdRbUZ58LhTGmqwqpruDC192/aIcnfnHyF2JQcPOV\nhVaVHF2eZXUSSOXTpJJPSmAxrcNdWOpfo9O+Wfiv9KXUB2svSw72cyzTsEHW4qut\nfFVPNcG+PUxBasYdZ+Tlv7QyUYAwaVWod9fEqBkCgYAjeV1fqrDlU9vbi6TFYPOf\nm7ujUKZQs0sjhjV0abt+iEuWp+MazbtqcUpRSXn9UlkPVr1ai6Gwh15TSJPcJg/q\nPOGpyvk9SbyZ3DD12bBRmm2ZF7Jfjwk/00I0ocjE+EthKf5+B8wAwN8iFwH9IqM8\n3fII0D6j75SMudiZUNu/2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gbt-france@gbt-france.iam.gserviceaccount.com",
+  "client_id": "107204258080846866438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gbt-france%40gbt-france.iam.gserviceaccount.com"
+}

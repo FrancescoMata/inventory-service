@@ -1,0 +1,517 @@
+Device Id,Capacity Id,Make,Model,GB,Network,Grade A,Grade B,Grade C,Grade D,Grade E
+276,4,Apple,iPad Pro 3 (2018) 11 WiFi,64,Unlocked,,190,110,30,15
+276,8,Apple,iPad Pro 3 (2018) 11 WiFi,256,Unlocked,,220,130,30,15
+276,10,Apple,iPad Pro 3 (2018) 11 WiFi,512,Unlocked,,240,140,30,15
+276,11,Apple,iPad Pro 3 (2018) 11 WiFi,1TB,Unlocked,,260,160,30,15
+277,4,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,64,Unlocked,,190,110,30,15
+277,8,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,256,Unlocked,,220,130,30,15
+277,10,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,512,Unlocked,,240,140,30,15
+277,11,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,1TB,Unlocked,,260,160,30,15
+274,4,Apple,iPad Pro 3 (2018) 12.9 WiFi,64,Unlocked,,230,130,30,15
+274,8,Apple,iPad Pro 3 (2018) 12.9 WiFi,256,Unlocked,,275,175,30,15
+274,10,Apple,iPad Pro 3 (2018) 12.9 WiFi,512,Unlocked,,320,220,30,15
+274,11,Apple,iPad Pro 3 (2018) 12.9 WiFi,1TB,Unlocked,,360,260,30,15
+275,4,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,64,Unlocked,,230,130,30,15
+275,8,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,256,Unlocked,,275,175,30,15
+275,10,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,512,Unlocked,,320,220,30,15
+275,11,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,1TB,Unlocked,,360,260,30,15
+4229,5,Apple,iPad Pro 4 (2020) 11 WiFi,128,Unlocked,,250,150,30,15
+4229,8,Apple,iPad Pro 4 (2020) 11 WiFi,256,Unlocked,,270,170,30,15
+4229,10,Apple,iPad Pro 4 (2020) 11 WiFi,512,Unlocked,,290,190,30,15
+4229,11,Apple,iPad Pro 4 (2020) 11 WiFi,1TB,Unlocked,,320,220,30,15
+4230,5,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,128,Unlocked,,250,150,30,15
+4230,8,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,256,Unlocked,,270,170,30,15
+4230,10,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,512,Unlocked,,290,190,30,15
+4230,11,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,1TB,Unlocked,,320,220,30,15
+4231,5,Apple,iPad Pro 4 (2020) 12.9 WiFi,128,Unlocked,,350,250,30,15
+4231,8,Apple,iPad Pro 4 (2020) 12.9 WiFi,256,Unlocked,,400,300,30,15
+4231,10,Apple,iPad Pro 4 (2020) 12.9 WiFi,512,Unlocked,,430,330,30,15
+4231,11,Apple,iPad Pro 4 (2020) 12.9 WiFi,1TB,Unlocked,,430,330,30,15
+4232,5,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,128,Unlocked,,350,250,30,15
+4232,8,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,256,Unlocked,,400,300,30,15
+4232,10,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,512,Unlocked,,430,330,30,15
+4232,11,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,1TB,Unlocked,,430,330,30,15
+9951,5,Apple,iPad Pro 5 (2021) 11 WiFi,128,Unlocked,,290,190,30,15
+9951,8,Apple,iPad Pro 5 (2021) 11 WiFi,256,Unlocked,,340,240,30,15
+9951,10,Apple,iPad Pro 5 (2021) 11 WiFi,512,Unlocked,,375,275,30,15
+9951,11,Apple,iPad Pro 5 (2021) 11 WiFi,1TB,Unlocked,,410,310,30,15
+9951,12,Apple,iPad Pro 5 (2021) 11 WiFi,2TB,Unlocked,,445,345,30,15
+9952,5,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,128,Unlocked,,290,190,30,15
+9952,8,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,256,Unlocked,,340,240,30,15
+9952,10,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,512,Unlocked,,375,275,30,15
+9952,11,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,1TB,Unlocked,,410,310,30,15
+9952,12,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,2TB,Unlocked,,445,345,30,15
+9953,5,Apple,iPad Pro 5 (2021) 12.9 WiFi,128,Unlocked,,330,230,30,15
+9953,8,Apple,iPad Pro 5 (2021) 12.9 WiFi,256,Unlocked,,380,280,30,15
+9953,10,Apple,iPad Pro 5 (2021) 12.9 WiFi,512,Unlocked,,415,315,30,15
+9953,11,Apple,iPad Pro 5 (2021) 12.9 WiFi,1TB,Unlocked,,450,350,30,15
+9953,12,Apple,iPad Pro 5 (2021) 12.9 WiFi,2TB,Unlocked,,480,380,30,15
+9954,5,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,128,Unlocked,,330,230,30,15
+9954,8,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,256,Unlocked,,380,280,30,15
+9954,10,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,512,Unlocked,,415,315,30,15
+9954,11,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,1TB,Unlocked,,450,350,30,15
+9954,12,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,2TB,Unlocked,,480,380,30,15
+347,4,Apple,iPhone 11,64,Unlocked,,235,165,40,20
+347,5,Apple,iPhone 11,128,Unlocked,,282,202,40,20
+347,8,Apple,iPhone 11,256,Unlocked,,282,202,40,20
+350,4,Apple,iPhone 11 Pro,64,Unlocked,,290,210,50,25
+350,8,Apple,iPhone 11 Pro,256,Unlocked,,345,265,50,25
+350,10,Apple,iPhone 11 Pro,512,Unlocked,,345,265,50,25
+351,4,Apple,iPhone 11 Pro Max,64,Unlocked,,342,262,50,25
+351,8,Apple,iPhone 11 Pro Max,256,Unlocked,,392,312,50,25
+351,10,Apple,iPhone 11 Pro Max,512,Unlocked,,392,312,50,25
+9924,4,Apple,iPhone 12,64,Unlocked,,355,255,60,30
+9924,5,Apple,iPhone 12,128,Unlocked,,406,306,60,30
+9924,8,Apple,iPhone 12,256,Unlocked,,406,306,60,30
+9925,4,Apple,iPhone 12 Mini,64,Unlocked,,295,215,60,30
+9925,5,Apple,iPhone 12 Mini,128,Unlocked,,340,240,60,30
+9925,8,Apple,iPhone 12 Mini,256,Unlocked,,365,265,60,30
+9922,5,Apple,iPhone 12 Pro,128,Unlocked,,475,375,80,40
+9922,8,Apple,iPhone 12 Pro,256,Unlocked,,500,400,80,40
+9922,10,Apple,iPhone 12 Pro,512,Unlocked,,520,420,80,40
+9923,5,Apple,iPhone 12 Pro Max,128,Unlocked,,547,447,80,40
+9923,8,Apple,iPhone 12 Pro Max,256,Unlocked,,568,468,80,40
+9923,10,Apple,iPhone 12 Pro Max,512,Unlocked,,592,492,80,40
+9973,5,Apple,iPhone 13,128,Unlocked,,485,385,80,40
+9973,8,Apple,iPhone 13,256,Unlocked,,545,445,80,40
+9973,10,Apple,iPhone 13,512,Unlocked,,570,470,80,40
+9974,5,Apple,iPhone 13 Mini,128,Unlocked,,355,275,80,40
+9974,8,Apple,iPhone 13 Mini,256,Unlocked,,375,295,80,40
+9974,10,Apple,iPhone 13 Mini,512,Unlocked,,410,330,80,40
+9975,5,Apple,iPhone 13 Pro,128,Unlocked,,650,520,80,40
+9975,8,Apple,iPhone 13 Pro,256,Unlocked,,710,580,80,40
+9975,10,Apple,iPhone 13 Pro,512,Unlocked,,735,605,80,40
+9975,11,Apple,iPhone 13 Pro,1TB,Unlocked,,745,615,80,40
+9976,5,Apple,iPhone 13 Pro Max,128,Unlocked,,655,525,80,40
+9976,8,Apple,iPhone 13 Pro Max,256,Unlocked,,740,610,80,40
+9976,10,Apple,iPhone 13 Pro Max,512,Unlocked,,760,630,80,40
+9976,11,Apple,iPhone 13 Pro Max,1TB,Unlocked,,785,655,80,40
+9,2,Apple,iPhone 6,16,Unlocked,,0,0,0,0
+9,3,Apple,iPhone 6,32,Unlocked,,0,0,0,0
+9,4,Apple,iPhone 6,64,Unlocked,,0,0,0,0
+9,5,Apple,iPhone 6,128,Unlocked,,0,0,0,0
+10,2,Apple,iPhone 6 Plus,16,Unlocked,,0,0,0,0
+10,3,Apple,iPhone 6 Plus,32,Unlocked,,0,0,0,0
+10,4,Apple,iPhone 6 Plus,64,Unlocked,,0,0,0,0
+10,5,Apple,iPhone 6 Plus,128,Unlocked,,0,0,0,0
+11,2,Apple,iPhone 6S,16,Unlocked,,0,0,0,0
+11,3,Apple,iPhone 6S,32,Unlocked,,38,23,2,1
+11,4,Apple,iPhone 6S,64,Unlocked,,0,0,0,0
+11,5,Apple,iPhone 6S,128,Unlocked,,0,0,0,0
+12,2,Apple,iPhone 6S Plus,16,Unlocked,,0,0,0,0
+12,3,Apple,iPhone 6S Plus,32,Unlocked,,0,0,0,0
+12,4,Apple,iPhone 6S Plus,64,Unlocked,,0,0,0,0
+12,5,Apple,iPhone 6S Plus,128,Unlocked,,0,0,0,0
+14,3,Apple,iPhone 7,32,Unlocked,,53,33,4,2
+14,5,Apple,iPhone 7,128,Unlocked,,63,43,4,2
+14,8,Apple,iPhone 7,256,Unlocked,,63,43,4,2
+15,3,Apple,iPhone 7 Plus,32,Unlocked,,80,50,4,2
+15,5,Apple,iPhone 7 Plus,128,Unlocked,,90,55,4,2
+15,8,Apple,iPhone 7 Plus,256,Unlocked,,90,55,4,2
+88,4,Apple,iPhone 8,64,Unlocked,,94,64,10,5
+88,5,Apple,iPhone 8,128,Unlocked,,94,64,10,5
+88,8,Apple,iPhone 8,256,Unlocked,,116,81,10,5
+89,4,Apple,iPhone 8 Plus,64,Unlocked,,128,93,14,7
+89,5,Apple,iPhone 8 Plus,128,Unlocked,,128,93,14,7
+89,8,Apple,iPhone 8 Plus,256,Unlocked,,143,108,14,7
+13,2,Apple,iPhone SE,16,Unlocked,,0,0,0,0
+13,3,Apple,iPhone SE,32,Unlocked,,0,0,0,0
+13,4,Apple,iPhone SE,64,Unlocked,,0,0,0,0
+13,5,Apple,iPhone SE,128,Unlocked,,0,0,0,0
+2207,4,Apple,iPhone SE (2020),64,Unlocked,,100,60,14,7
+2207,5,Apple,iPhone SE (2020),128,Unlocked,,120,80,14,7
+2207,8,Apple,iPhone SE (2020),256,Unlocked,,120,80,14,7
+119,4,Apple,iPhone X,64,Unlocked,,155,110,20,10
+119,8,Apple,iPhone X,256,Unlocked,,185,135,20,10
+248,4,Apple,iPhone XR,64,Unlocked,,160,115,20,10
+248,5,Apple,iPhone XR,128,Unlocked,,185,135,20,10
+248,8,Apple,iPhone XR,256,Unlocked,,185,135,20,10
+204,4,Apple,iPhone XS,64,Unlocked,,153,103,30,15
+204,8,Apple,iPhone XS,256,Unlocked,,170,120,30,15
+204,10,Apple,iPhone XS,512,Unlocked,,190,140,30,15
+205,4,Apple,iPhone XS Max,64,Unlocked,,190,130,30,15
+205,8,Apple,iPhone XS Max,256,Unlocked,,210,150,30,15
+205,10,Apple,iPhone XS Max,512,Unlocked,,210,150,30,15
+360,4,Google,Pixel 4,64,Unlocked,,0,0,0,0
+360,5,Google,Pixel 4,128,Unlocked,,0,0,0,0
+361,4,Google,Pixel 4 XL,64,Unlocked,,0,0,0,0
+361,5,Google,Pixel 4 XL,128,Unlocked,,0,0,0,0
+9961,5,Google,Pixel 5,128,Unlocked,,180,135,20,10
+255,5,Huawei,Mate 20,128,Unlocked,,0,0,0,0
+256,4,Huawei,Mate 20 Lite,64,Unlocked,,0,0,0,0
+254,5,Huawei,Mate 20 Pro,128,Unlocked,,0,0,0,0
+254,8,Huawei,Mate 20 Pro,256,Unlocked,,0,0,0,0
+303,5,Huawei,Mate 20 X,128,Unlocked,,0,0,0,0
+2008,8,Huawei,Mate 30 Pro,256,Unlocked,,0,0,0,0
+2004,10,Huawei,Mate XS 5G,512,Unlocked,,0,0,0,0
+181,4,Huawei,P20,64,Unlocked,,0,0,0,0
+181,5,Huawei,P20,128,Unlocked,,0,0,0,0
+182,3,Huawei,P20 Lite,32,Unlocked,,0,0,0,0
+182,4,Huawei,P20 Lite,64,Unlocked,,0,0,0,0
+178,4,Huawei,P20 Pro,64,Unlocked,,35,20,4,2
+178,5,Huawei,P20 Pro,128,Unlocked,,35,20,4,2
+178,8,Huawei,P20 Pro,256,Unlocked,,35,20,4,2
+329,5,Huawei,P30,128,Unlocked,,70,40,2,1
+342,5,Huawei,P30 Lite,128,Unlocked,,0,0,0,0
+342,8,Huawei,P30 Lite,256,Unlocked,,0,0,0,0
+328,5,Huawei,P30 Pro,128,Unlocked,,145,105,4,2
+328,8,Huawei,P30 Pro,256,Unlocked,,145,105,4,2
+328,10,Huawei,P30 Pro,512,Unlocked,,145,105,4,2
+2006,5,Huawei,P40 5G,128,Unlocked,,0,0,0,0
+2007,5,Huawei,P40 Lite,128,Unlocked,,0,0,0,0
+2005,8,Huawei,P40 Pro 5G,256,Unlocked,,0,0,0,0
+3096,5,OnePlus,7,128,Unlocked,,0,0,0,0
+3096,8,OnePlus,7,256,Unlocked,,0,0,0,0
+341,5,OnePlus,7 Pro,128,Unlocked,,65,45,2,1
+341,8,OnePlus,7 Pro,256,Unlocked,,70,50,2,1
+2001,5,OnePlus,7T,128,Unlocked,,0,0,0,0
+2001,8,OnePlus,7T,256,Unlocked,,0,0,0,0
+362,8,OnePlus,7T Pro,256,Unlocked,,65,45,2,1
+5332,5,OnePlus,8 5G,128,Unlocked,,85,55,2,1
+5332,8,OnePlus,8 5G,256,Unlocked,,85,55,2,1
+9934,5,OnePlus,8T,128,Unlocked,,0,0,0,0
+9934,8,OnePlus,8T,256,Unlocked,,0,0,0,0
+9959,5,OnePlus,9 5G,128,Unlocked,,0,0,0,0
+9921,5,OnePlus,Nord,128,Unlocked,,35,20,2,1
+9921,8,OnePlus,Nord,256,Unlocked,,35,20,2,1
+3097,10,Oppo,Find X2 Pro,512,Unlocked,,0,0,0,0
+9864,5,Oppo,Find X2 Lite,128,Unlocked,,0,0,0,0
+9963,5,Oppo,Find X3 Lite 5G,128,Unlocked,,0,0,0,0
+9964,8,Oppo,Find X3 Neo 5G,256,Unlocked,,120,70,16,8
+9965,8,Oppo,Find X3 Pro 5g,256,Unlocked,,200,120,20,10
+2003,5,Samsung,A90 5G,128,Unlocked,,0,0,0,0
+356,10,Samsung,Galaxy Fold,512,Unlocked,,0,0,0,0
+9960,8,Samsung,Galaxy Z Fold3 5G,256,Unlocked,,495,345,62,31
+9960,10,Samsung,Galaxy Z Fold3 5G,512,Unlocked,,495,345,62,31
+345,8,Samsung,Note 10,256,Unlocked,,200,135,20,10
+9863,5,Samsung,Note 10 Lite,128,Unlocked,,105,60,14,7
+344,8,Samsung,Note 10 Plus,256,Unlocked,,175,95,20,10
+344,10,Samsung,Note 10 Plus,512,Unlocked,,175,95,20,10
+346,8,Samsung,Note 10 Plus 5G,256,Unlocked,,195,115,20,10
+346,10,Samsung,Note 10 Plus 5G,512,Unlocked,,195,115,20,10
+6923,8,Samsung,Note 20,256,Unlocked,,235,135,30,15
+6924,8,Samsung,Note 20 5G,256,Unlocked,,225,135,30,15
+6925,8,Samsung,Note 20 Ultra 5G,256,Unlocked,,290,190,30,15
+6925,10,Samsung,Note 20 Ultra 5G,512,Unlocked,,290,190,30,15
+94,4,Samsung,Note 8,64,Unlocked,,0,0,0,0
+94,5,Samsung,Note 8,128,Unlocked,,0,0,0,0
+94,8,Samsung,Note 8,256,Unlocked,,0,0,0,0
+200,5,Samsung,Note 9,128,Unlocked,,110,70,10,5
+200,10,Samsung,Note 9,512,Unlocked,,110,70,10,5
+312,5,Samsung,S10,128,Unlocked,,125,85,12,6
+312,10,Samsung,S10,512,Unlocked,,125,85,12,6
+371,8,Samsung,S10 5G,256,Unlocked,,125,85,12,6
+371,10,Samsung,S10 5G,512,Unlocked,,125,85,12,6
+9930,5,Samsung,S10 Lite,128,Unlocked,,0,0,0,0
+313,5,Samsung,S10 Plus,128,Unlocked,,165,115,12,6
+313,10,Samsung,S10 Plus,512,Unlocked,,165,115,12,6
+313,11,Samsung,S10 Plus,1TB,Unlocked,,165,115,12,6
+314,5,Samsung,S10e,128,Unlocked,,0,0,0,0
+314,8,Samsung,S10e,256,Unlocked,,0,0,0,0
+1075,5,Samsung,S20,128,Unlocked,,155,90,30,15
+1082,5,Samsung,S20 5G,128,Unlocked,,180,105,30,15
+9931,5,Samsung,S20 Plus,128,Unlocked,,0,0,0,0
+1079,5,Samsung,S20 Plus 5G,128,Unlocked,,190,115,30,15
+1080,5,Samsung,S20 Ultra 5G,128,Unlocked,,245,145,40,20
+1080,10,Samsung,S20 Ultra 5G,512,Unlocked,,245,145,40,20
+9927,5,Samsung,S20 FE,128,Unlocked,,120,70,20,10
+9958,5,Samsung,S20 FE 5G,128,Unlocked,,140,75,24,12
+9958,8,Samsung,S20 FE 5G,256,Unlocked,,140,75,24,12
+9935,5,Samsung,S21 5G,128,Unlocked,,320,220,40,20
+9935,8,Samsung,S21 5G,256,Unlocked,,320,220,40,20
+9936,5,Samsung,S21 Plus 5G,128,Unlocked,,360,260,40,20
+9936,8,Samsung,S21 Plus 5G,256,Unlocked,,360,260,40,20
+9937,5,Samsung,S21 Ultra 5G,128,Unlocked,,430,310,50,25
+9937,8,Samsung,S21 Ultra 5G,256,Unlocked,,430,310,50,25
+9937,10,Samsung,S21 Ultra 5G,512,Unlocked,,430,310,50,25
+9978,5,Samsung,S22 5G,128,Unlocked,,375,275,50,25
+9978,8,Samsung,S22 5G,256,Unlocked,,375,275,50,25
+9979,5,Samsung,S22 Plus 5G,128,Unlocked,,420,320,50,25
+9979,8,Samsung,S22 Plus 5G,256,Unlocked,,420,320,50,25
+9977,5,Samsung,S22 Ultra 5G,128,Unlocked,,530,410,70,35
+9977,8,Samsung,S22 Ultra 5G,256,Unlocked,,530,410,70,35
+9977,10,Samsung,S22 Ultra 5G,512,Unlocked,,530,410,70,35
+9977,11,Samsung,S22 Ultra 5G,1TB,Unlocked,,530,410,70,35
+41,3,Samsung,S7,32,Unlocked,,0,0,0,0
+41,4,Samsung,S7,64,Unlocked,,0,0,0,0
+21,3,Samsung,S7 Edge,32,Unlocked,,0,0,0,0
+21,4,Samsung,S7 Edge,64,Unlocked,,0,0,0,0
+21,5,Samsung,S7 Edge,128,Unlocked,,0,0,0,0
+43,4,Samsung,S8,64,Unlocked,,75,50,4,2
+42,4,Samsung,S8 Plus,64,Unlocked,,0,0,0,0
+42,5,Samsung,S8 Plus,128,Unlocked,,0,0,0,0
+157,4,Samsung,S9,64,Unlocked,,75,45,4,2
+157,5,Samsung,S9,128,Unlocked,,75,45,4,2
+157,8,Samsung,S9,256,Unlocked,,75,45,4,2
+159,4,Samsung,S9 Plus,64,Unlocked,,0,0,0,0
+159,5,Samsung,S9 Plus,128,Unlocked,,110,75,4,2
+159,8,Samsung,S9 Plus,256,Unlocked,,110,75,4,2
+1081,8,Samsung,Z Flip,256,Unlocked,,0,0,0,0
+9962,5,Samsung,Z Flip3 5G,128,Unlocked,,265,165,30,15
+9962,8,Samsung,Z Flip3 5G,256,Unlocked,,265,165,30,15
+4222,8,Sony,Xperia 1 II,256,Unlocked,,85,50,8,4
+9966,8,Sony,Xperia 1 III,256,Unlocked,,150,90,16,8
+9967,5,Sony,Xperia 5 III,128,Unlocked,,0,0,0,0
+9968,5,Sony,Xperia 10 III,128,Unlocked,,0,0,0,0
+9969,5,Xiaomi,Mi 11 Lite 5G,128,Unlocked,,45,25,4,2
+9970,5,Xiaomi,Mi 11 5G,128,Unlocked,,100,60,8,4
+9970,8,Xiaomi,Mi 11 5G,256,Unlocked,,100,60,8,4
+9971,8,Xiaomi,Mi 11 Ultra 5G,256,Unlocked,,235,135,24,12
+276,4,Apple,iPad Pro 3 (2018) 11 WiFi,64,Locked,,110,30,30,15
+276,8,Apple,iPad Pro 3 (2018) 11 WiFi,256,Locked,,130,40,30,15
+276,10,Apple,iPad Pro 3 (2018) 11 WiFi,512,Locked,,140,40,30,15
+276,11,Apple,iPad Pro 3 (2018) 11 WiFi,1TB,Locked,,160,60,30,15
+277,4,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,64,Locked,,110,30,30,15
+277,8,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,256,Locked,,130,40,30,15
+277,10,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,512,Locked,,140,40,30,15
+277,11,Apple,iPad Pro 3 (2018) 11 WiFi & Cellular,1TB,Locked,,160,60,30,15
+274,4,Apple,iPad Pro 3 (2018) 12.9 WiFi,64,Locked,,130,30,30,15
+274,8,Apple,iPad Pro 3 (2018) 12.9 WiFi,256,Locked,,175,75,30,15
+274,10,Apple,iPad Pro 3 (2018) 12.9 WiFi,512,Locked,,220,120,30,15
+274,11,Apple,iPad Pro 3 (2018) 12.9 WiFi,1TB,Locked,,260,160,30,15
+275,4,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,64,Locked,,130,30,30,15
+275,8,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,256,Locked,,175,75,30,15
+275,10,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,512,Locked,,220,120,30,15
+275,11,Apple,iPad Pro 3 (2018) 12.9 WiFi & Cellular,1TB,Locked,,260,160,30,15
+4229,5,Apple,iPad Pro 4 (2020) 11 WiFi,128,Locked,,150,50,30,15
+4229,8,Apple,iPad Pro 4 (2020) 11 WiFi,256,Locked,,170,70,30,15
+4229,10,Apple,iPad Pro 4 (2020) 11 WiFi,512,Locked,,190,90,30,15
+4229,11,Apple,iPad Pro 4 (2020) 11 WiFi,1TB,Locked,,220,120,30,15
+4230,5,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,128,Locked,,150,50,30,15
+4230,8,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,256,Locked,,170,70,30,15
+4230,10,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,512,Locked,,190,90,30,15
+4230,11,Apple,iPad Pro 4 (2020) 11 WiFi & Cellular,1TB,Locked,,220,120,30,15
+4231,5,Apple,iPad Pro 4 (2020) 12.9 WiFi,128,Locked,,250,150,30,15
+4231,8,Apple,iPad Pro 4 (2020) 12.9 WiFi,256,Locked,,300,200,30,15
+4231,10,Apple,iPad Pro 4 (2020) 12.9 WiFi,512,Locked,,330,230,30,15
+4231,11,Apple,iPad Pro 4 (2020) 12.9 WiFi,1TB,Locked,,330,230,30,15
+4232,5,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,128,Locked,,250,150,30,15
+4232,8,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,256,Locked,,300,200,30,15
+4232,10,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,512,Locked,,330,230,30,15
+4232,11,Apple,iPad Pro 4 (2020) 12.9 WiFi & Cellular,1TB,Locked,,330,230,30,15
+9951,5,Apple,iPad Pro 5 (2021) 11 WiFi,128,Locked,,190,90,30,15
+9951,8,Apple,iPad Pro 5 (2021) 11 WiFi,256,Locked,,240,140,30,15
+9951,10,Apple,iPad Pro 5 (2021) 11 WiFi,512,Locked,,275,175,30,15
+9951,11,Apple,iPad Pro 5 (2021) 11 WiFi,1TB,Locked,,310,210,30,15
+9951,12,Apple,iPad Pro 5 (2021) 11 WiFi,2TB,Locked,,345,245,30,15
+9952,5,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,128,Locked,,190,90,30,15
+9952,8,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,256,Locked,,240,140,30,15
+9952,10,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,512,Locked,,275,175,30,15
+9952,11,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,1TB,Locked,,310,210,30,15
+9952,12,Apple,iPad Pro 5 (2021) 11 WiFi & Cellular,2TB,Locked,,345,245,30,15
+9953,5,Apple,iPad Pro 5 (2021) 12.9 WiFi,128,Locked,,230,130,30,15
+9953,8,Apple,iPad Pro 5 (2021) 12.9 WiFi,256,Locked,,280,180,30,15
+9953,10,Apple,iPad Pro 5 (2021) 12.9 WiFi,512,Locked,,315,215,30,15
+9953,11,Apple,iPad Pro 5 (2021) 12.9 WiFi,1TB,Locked,,350,250,30,15
+9953,12,Apple,iPad Pro 5 (2021) 12.9 WiFi,2TB,Locked,,380,280,30,15
+9954,5,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,128,Locked,,230,130,30,15
+9954,8,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,256,Locked,,280,180,30,15
+9954,10,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,512,Locked,,315,215,30,15
+9954,11,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,1TB,Locked,,350,250,30,15
+9954,12,Apple,iPad Pro 5 (2021) 12.9 WiFi & Cellular,2TB,Locked,,380,280,30,15
+347,4,Apple,iPhone 11,64,Locked,,165,95,40,20
+347,5,Apple,iPhone 11,128,Locked,,202,122,40,20
+347,8,Apple,iPhone 11,256,Locked,,202,122,40,20
+350,4,Apple,iPhone 11 Pro,64,Locked,,210,130,50,25
+350,8,Apple,iPhone 11 Pro,256,Locked,,265,185,50,25
+350,10,Apple,iPhone 11 Pro,512,Locked,,265,185,50,25
+351,4,Apple,iPhone 11 Pro Max,64,Locked,,262,182,50,25
+351,8,Apple,iPhone 11 Pro Max,256,Locked,,312,232,50,25
+351,10,Apple,iPhone 11 Pro Max,512,Locked,,312,232,50,25
+9924,4,Apple,iPhone 12,64,Locked,,255,155,60,30
+9924,5,Apple,iPhone 12,128,Locked,,306,206,60,30
+9924,8,Apple,iPhone 12,256,Locked,,306,206,60,30
+9925,4,Apple,iPhone 12 Mini,64,Locked,,215,135,60,30
+9925,5,Apple,iPhone 12 Mini,128,Locked,,240,140,60,30
+9925,8,Apple,iPhone 12 Mini,256,Locked,,265,165,60,30
+9922,5,Apple,iPhone 12 Pro,128,Locked,,375,275,80,40
+9922,8,Apple,iPhone 12 Pro,256,Locked,,400,300,80,40
+9922,10,Apple,iPhone 12 Pro,512,Locked,,420,320,80,40
+9923,5,Apple,iPhone 12 Pro Max,128,Locked,,447,347,80,40
+9923,8,Apple,iPhone 12 Pro Max,256,Locked,,468,368,80,40
+9923,10,Apple,iPhone 12 Pro Max,512,Locked,,492,392,80,40
+9973,5,Apple,iPhone 13,128,Locked,,385,285,80,40
+9973,8,Apple,iPhone 13,256,Locked,,445,345,80,40
+9973,10,Apple,iPhone 13,512,Locked,,470,370,80,40
+9974,5,Apple,iPhone 13 Mini,128,Locked,,275,195,80,40
+9974,8,Apple,iPhone 13 Mini,256,Locked,,295,215,80,40
+9974,10,Apple,iPhone 13 Mini,512,Locked,,330,250,80,40
+9975,5,Apple,iPhone 13 Pro,128,Locked,,520,390,80,40
+9975,8,Apple,iPhone 13 Pro,256,Locked,,580,450,80,40
+9975,10,Apple,iPhone 13 Pro,512,Locked,,605,475,80,40
+9975,11,Apple,iPhone 13 Pro,1TB,Locked,,615,485,80,40
+9976,5,Apple,iPhone 13 Pro Max,128,Locked,,525,395,80,40
+9976,8,Apple,iPhone 13 Pro Max,256,Locked,,610,480,80,40
+9976,10,Apple,iPhone 13 Pro Max,512,Locked,,630,500,80,40
+9976,11,Apple,iPhone 13 Pro Max,1TB,Locked,,655,525,80,40
+9,2,Apple,iPhone 6,16,Locked,,0,0,0,0
+9,3,Apple,iPhone 6,32,Locked,,0,0,0,0
+9,4,Apple,iPhone 6,64,Locked,,0,0,0,0
+9,5,Apple,iPhone 6,128,Locked,,0,0,0,0
+10,2,Apple,iPhone 6 Plus,16,Locked,,0,0,0,0
+10,3,Apple,iPhone 6 Plus,32,Locked,,0,0,0,0
+10,4,Apple,iPhone 6 Plus,64,Locked,,0,0,0,0
+10,5,Apple,iPhone 6 Plus,128,Locked,,0,0,0,0
+11,2,Apple,iPhone 6S,16,Locked,,0,0,0,0
+11,3,Apple,iPhone 6S,32,Locked,,23,8,2,1
+11,4,Apple,iPhone 6S,64,Locked,,0,0,0,0
+11,5,Apple,iPhone 6S,128,Locked,,0,0,0,0
+12,2,Apple,iPhone 6S Plus,16,Locked,,0,0,0,0
+12,3,Apple,iPhone 6S Plus,32,Locked,,0,0,0,0
+12,4,Apple,iPhone 6S Plus,64,Locked,,0,0,0,0
+12,5,Apple,iPhone 6S Plus,128,Locked,,0,0,0,0
+14,3,Apple,iPhone 7,32,Locked,,33,13,4,2
+14,5,Apple,iPhone 7,128,Locked,,43,23,4,2
+14,8,Apple,iPhone 7,256,Locked,,43,23,4,2
+15,3,Apple,iPhone 7 Plus,32,Locked,,50,20,4,2
+15,5,Apple,iPhone 7 Plus,128,Locked,,55,20,4,2
+15,8,Apple,iPhone 7 Plus,256,Locked,,55,20,4,2
+88,4,Apple,iPhone 8,64,Locked,,64,34,10,5
+88,5,Apple,iPhone 8,128,Locked,,64,34,10,5
+88,8,Apple,iPhone 8,256,Locked,,81,46,10,5
+89,4,Apple,iPhone 8 Plus,64,Locked,,93,58,14,7
+89,5,Apple,iPhone 8 Plus,128,Locked,,93,58,14,7
+89,8,Apple,iPhone 8 Plus,256,Locked,,108,73,14,7
+13,2,Apple,iPhone SE,16,Locked,,0,0,0,0
+13,3,Apple,iPhone SE,32,Locked,,0,0,0,0
+13,4,Apple,iPhone SE,64,Locked,,0,0,0,0
+13,5,Apple,iPhone SE,128,Locked,,0,0,0,0
+2207,4,Apple,iPhone SE (2nd Gen),64,Locked,,60,20,14,7
+2207,5,Apple,iPhone SE (2nd Gen),128,Locked,,80,40,14,7
+2207,8,Apple,iPhone SE (2nd Gen),256,Locked,,80,40,14,7
+119,4,Apple,iPhone X,64,Locked,,110,65,20,10
+119,8,Apple,iPhone X,256,Locked,,135,85,20,10
+248,4,Apple,iPhone XR,64,Locked,,115,70,20,10
+248,5,Apple,iPhone XR,128,Locked,,135,85,20,10
+248,8,Apple,iPhone XR,256,Locked,,135,85,20,10
+204,4,Apple,iPhone XS,64,Locked,,103,53,30,15
+204,8,Apple,iPhone XS,256,Locked,,120,70,30,15
+204,10,Apple,iPhone XS,512,Locked,,140,90,30,15
+205,4,Apple,iPhone XS Max,64,Locked,,130,70,30,15
+205,8,Apple,iPhone XS Max,256,Locked,,150,90,30,15
+205,10,Apple,iPhone XS Max,512,Locked,,150,90,30,15
+360,4,Google,Pixel 4,64,Locked,,0,0,0,0
+360,5,Google,Pixel 4,128,Locked,,0,0,0,0
+361,4,Google,Pixel 4 XL,64,Locked,,0,0,0,0
+361,5,Google,Pixel 4 XL,128,Locked,,0,0,0,0
+9961,5,Google,Pixel 5,128,Locked,,135,90,20,10
+255,5,Huawei,Mate 20,128,Locked,,0,0,0,0
+256,4,Huawei,Mate 20 Lite,64,Locked,,0,0,0,0
+254,5,Huawei,Mate 20 Pro,128,Locked,,0,0,0,0
+254,8,Huawei,Mate 20 Pro,256,Locked,,0,0,0,0
+303,5,Huawei,Mate 20 X,128,Locked,,0,0,0,0
+2008,8,Huawei,Mate 30 Pro,256,Locked,,0,0,0,0
+2004,10,Huawei,Mate XS 5G,512,Locked,,0,0,0,0
+181,4,Huawei,P20,64,Locked,,0,0,0,0
+181,5,Huawei,P20,128,Locked,,0,0,0,0
+182,3,Huawei,P20 Lite,32,Locked,,0,0,0,0
+182,4,Huawei,P20 Lite,64,Locked,,0,0,0,0
+178,4,Huawei,P20 Pro,64,Locked,,20,5,4,2
+178,5,Huawei,P20 Pro,128,Locked,,20,5,4,2
+178,8,Huawei,P20 Pro,256,Locked,,20,5,4,2
+329,5,Huawei,P30,128,Locked,,40,10,2,1
+342,5,Huawei,P30 Lite,128,Locked,,0,0,0,0
+342,8,Huawei,P30 Lite,256,Locked,,0,0,0,0
+328,5,Huawei,P30 Pro,128,Locked,,105,65,4,2
+328,8,Huawei,P30 Pro,256,Locked,,105,65,4,2
+328,10,Huawei,P30 Pro,512,Locked,,105,65,4,2
+2006,5,Huawei,P40 5G,128,Locked,,0,0,0,0
+2007,5,Huawei,P40 Lite,128,Locked,,0,0,0,0
+2005,8,Huawei,P40 Pro 5G,256,Locked,,0,0,0,0
+3096,5,OnePlus,7,128,Locked,,0,0,0,0
+3096,8,OnePlus,7,256,Locked,,0,0,0,0
+341,5,OnePlus,7 Pro,128,Locked,,45,25,2,1
+341,8,OnePlus,7 Pro,256,Locked,,50,30,2,1
+2001,5,OnePlus,7T,128,Locked,,0,0,0,0
+2001,8,OnePlus,7T,256,Locked,,0,0,0,0
+362,8,OnePlus,7T Pro,256,Locked,,45,25,2,1
+5332,5,OnePlus,8 5G,128,Locked,,55,25,2,1
+5332,8,OnePlus,8 5G,256,Locked,,55,25,2,1
+9934,5,OnePlus,8T,128,Locked,,0,0,0,0
+9934,8,OnePlus,8T,256,Locked,,0,0,0,0
+9959,5,OnePlus,9 5G,128,Locked,,0,0,0,0
+9921,5,OnePlus,Nord,128,Locked,,20,5,2,1
+9921,8,OnePlus,Nord,256,Locked,,20,5,2,1
+3097,10,Oppo,Find X2 Pro,512,Locked,,0,0,0,0
+9864,5,Oppo,Find X2 Lite,128,Locked,,0,0,0,0
+9963,5,Oppo,Find X3 Lite 5G,128,Locked,,0,0,0,0
+9964,8,Oppo,Find X3 Neo 5G,256,Locked,,70,20,16,8
+9965,8,Oppo,Find X3 Pro 5g,256,Locked,,120,40,20,10
+2003,5,Samsung,A90 5G,128,Locked,,0,0,0,0
+356,10,Samsung,Galaxy Fold,512,Locked,,0,0,0,0
+9960,8,Samsung,Galaxy Z Fold3 5G,256,Locked,,345,195,62,31
+9960,10,Samsung,Galaxy Z Fold3 5G,512,Locked,,345,195,62,31
+345,8,Samsung,Note 10,256,Locked,,135,70,20,10
+9863,5,Samsung,Note 10 Lite,128,Locked,,60,15,14,7
+344,8,Samsung,Note 10 Plus,256,Locked,,95,15,20,10
+344,10,Samsung,Note 10 Plus,512,Locked,,95,15,20,10
+346,8,Samsung,Note 10 Plus 5G,256,Locked,,115,35,20,10
+346,10,Samsung,Note 10 Plus 5G,512,Locked,,115,35,20,10
+6923,8,Samsung,Note 20,256,Locked,,135,35,30,15
+6924,8,Samsung,Note 20 5G,256,Locked,,135,45,30,15
+6925,8,Samsung,Note 20 Ultra 5G,256,Locked,,190,90,30,15
+6925,10,Samsung,Note 20 Ultra 5G,512,Locked,,190,90,30,15
+94,4,Samsung,Note 8,64,Locked,,0,0,0,0
+94,5,Samsung,Note 8,128,Locked,,0,0,0,0
+94,8,Samsung,Note 8,256,Locked,,0,0,0,0
+200,5,Samsung,Note 9,128,Locked,,70,30,10,5
+200,10,Samsung,Note 9,512,Locked,,70,30,10,5
+312,5,Samsung,S10,128,Locked,,85,45,12,6
+312,10,Samsung,S10,512,Locked,,85,45,12,6
+371,8,Samsung,S10 5G,256,Locked,,85,45,12,6
+371,10,Samsung,S10 5G,512,Locked,,85,45,12,6
+9930,5,Samsung,S10 Lite,128,Locked,,0,0,0,0
+313,5,Samsung,S10 Plus,128,Locked,,115,65,12,6
+313,10,Samsung,S10 Plus,512,Locked,,115,65,12,6
+313,11,Samsung,S10 Plus,1TB,Locked,,115,65,12,6
+314,5,Samsung,S10e,128,Locked,,0,0,0,0
+314,8,Samsung,S10e,256,Locked,,0,0,0,0
+1075,5,Samsung,S20,128,Locked,,90,25,30,15
+1082,5,Samsung,S20 5G,128,Locked,,105,30,30,15
+9931,5,Samsung,S20 Plus,128,Locked,,0,0,0,0
+1079,5,Samsung,S20 Plus 5G,128,Locked,,115,40,30,15
+1080,5,Samsung,S20 Ultra 5G,128,Locked,,145,45,40,20
+1080,10,Samsung,S20 Ultra 5G,512,Locked,,145,45,40,20
+9927,5,Samsung,S20 FE,128,Locked,,70,20,20,10
+9958,5,Samsung,S20 FE 5G,128,Locked,,75,10,24,12
+9958,8,Samsung,S20 FE 5G,256,Locked,,75,10,24,12
+9935,5,Samsung,S21 5G,128,Locked,,220,120,40,20
+9935,8,Samsung,S21 5G,256,Locked,,220,120,40,20
+9936,5,Samsung,S21 Plus 5G,128,Locked,,260,160,40,20
+9936,8,Samsung,S21 Plus 5G,256,Locked,,260,160,40,20
+9937,5,Samsung,S21 Ultra 5G,128,Locked,,310,190,50,25
+9937,8,Samsung,S21 Ultra 5G,256,Locked,,310,190,50,25
+9937,10,Samsung,S21 Ultra 5G,512,Locked,,310,190,50,25
+9978,5,Samsung,S22 5G,128,Locked,,275,175,50,25
+9978,8,Samsung,S22 5G,256,Locked,,275,175,50,25
+9979,5,Samsung,S22 Plus 5G,128,Locked,,320,220,50,25
+9979,8,Samsung,S22 Plus 5G,256,Locked,,320,220,50,25
+9977,5,Samsung,S22 Ultra 5G,128,Locked,,410,290,70,35
+9977,8,Samsung,S22 Ultra 5G,256,Locked,,410,290,70,35
+9977,10,Samsung,S22 Ultra 5G,512,Locked,,410,290,70,35
+9977,11,Samsung,S22 Ultra 5G,1TB,Locked,,410,290,70,35
+41,3,Samsung,S7,32,Locked,,0,0,0,0
+41,4,Samsung,S7,64,Locked,,0,0,0,0
+21,3,Samsung,S7 Edge,32,Locked,,0,0,0,0
+21,4,Samsung,S7 Edge,64,Locked,,0,0,0,0
+21,5,Samsung,S7 Edge,128,Locked,,0,0,0,0
+43,4,Samsung,S8,64,Locked,,50,25,4,2
+42,4,Samsung,S8 Plus,64,Locked,,0,0,0,0
+42,5,Samsung,S8 Plus,128,Locked,,0,0,0,0
+157,4,Samsung,S9,64,Locked,,45,15,4,2
+157,5,Samsung,S9,128,Locked,,45,15,4,2
+157,8,Samsung,S9,256,Locked,,45,15,4,2
+159,4,Samsung,S9 Plus,64,Locked,,0,0,0,0
+159,5,Samsung,S9 Plus,128,Locked,,75,40,4,2
+159,8,Samsung,S9 Plus,256,Locked,,75,40,4,2
+1081,8,Samsung,Z Flip,256,Locked,,0,0,0,0
+9962,5,Samsung,Z Flip3 5G,128,Locked,,165,65,30,15
+9962,8,Samsung,Z Flip3 5G,256,Locked,,165,65,30,15
+4222,8,Sony,Xperia 1 II,256,Locked,,50,15,8,4
+9966,8,Sony,Xperia 1 III,256,Locked,,90,30,16,8
+9967,5,Sony,Xperia 5 III,128,Locked,,0,0,0,0
+9968,5,Sony,Xperia 10 III,128,Locked,,0,0,0,0
+9969,5,Xiaomi,Mi 11 Lite 5G,128,Locked,,25,5,4,2
+9970,5,Xiaomi,Mi 11 5G,128,Locked,,60,20,8,4
+9970,8,Xiaomi,Mi 11 5G,256,Locked,,60,20,8,4
+9971,8,Xiaomi,Mi 11 Ultra 5G,256,Locked,,135,35,24,12
